@@ -15,4 +15,4 @@ default['security_policy']['rights']['SeRemoteInteractiveLogonRight']       = '*
 default['security_policy']['rights']['SeTcbPrivilege']                      = '*S-1-0-0'
 default['security_policy']['rights']['SeMachineAccountPrivilege']           = '*S-1-5-32-544'
 default['security_policy']['rights']['SeTrustedCredManAccessPrivilege']     = '*S-1-0-0'
-default['security_policy']['rights']['SeNetworkLogonRight']                 = '*S-1-0-0'
+default['security_policy']['rights']['SeNetworkLogonRight']                 = '*S-1-5-32-544'
